@@ -106,7 +106,6 @@
     /* 4. 每日一句鼓励语 */
     const quotes = [
         "你已经比昨天的自己更专注了！",
-        "番茄钟滴答的每一秒，都是 ADHD 大脑的自我修复。",
         "完成一个番茄，就离目标更近一步。",
     ];
     document.getElementById('encourage').textContent =
